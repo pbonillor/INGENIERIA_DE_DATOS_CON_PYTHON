@@ -25,7 +25,7 @@ Para realizar este curso, son necesarios conocimientos básicos de computación
 # Requisitos de aprobación:
 * 75% (al menos 45 horas de 60) de asistencia a las clases en linea. Se registrará la asistencia a cada clase.
 * Completar y reportar las 60 horas de ejercicios enviados a lo largo del curso.
-* Entregar proyecto que se asignará el Sabado 18 de Noviembre (ultima clase presencial en aula virtual) y que debe ser enviado por email al profesor, antes de las 23:59 del Sabado 25 de Noviembre.
+* Entregar proyecto que se asignará el Sabado 18 de Noviembre (ultima clase presencial en aula virtual) y que debe ser enviado por email al profesor.
 
 # CONTENIDO
 ## [MODULO I - INTRODUCCIÓN Y REPASO GENERAL DE CONCEPTOS]
